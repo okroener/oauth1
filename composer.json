@@ -21,6 +21,7 @@
             "role": "Developer"
         }
     ],
+    "version": "3.0.0",
     "autoload": {
         "psr-4": {
             "Risan\\OAuth1\\": "src/"
